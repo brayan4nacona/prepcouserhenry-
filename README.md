@@ -1,2 +1,1 @@
-# prepcouserhenry-
-este es un repositorio de prueba 
+este proyecto es una prueba de como clonarlo y guardarlo en mi disco local 
